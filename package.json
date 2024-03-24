@@ -207,7 +207,7 @@
     "remark-cli": "^11",
     "remark-parse": "^10",
     "semantic-release": "^21",
-    "stylelint": "^15",
+    "stylelint": "^16.0.0",
     "tsx": "^4",
     "typescript": "^5",
     "unified": "^11",
